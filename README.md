@@ -4,4 +4,6 @@ The images will be stored inside the "images/" folder.
 
 # setting up
 
-Database can be set up via editing the "db.php" file.
+- Database can be set up via editing the "db.php" file.
+- Javascripts are coded inside the custom.js file which can be found inside "js/" folder.
+
