@@ -4,6 +4,8 @@ The images will be stored inside the "images/" folder.
 
 # setting up
 
-- Database can be set up via editing the "db.php" file.
+- Database connections can be set up via editing the "db.php" file.
+- The structure of the database is given inside 'ckeditor.sql'
+  Just import that into your phpmyadmin and you are good to go.
 - Javascripts are coded inside the custom.js file which can be found inside "js/" folder.
 
